@@ -1,0 +1,7 @@
+C:\Users\foxdr\OneDrive\Desktop\teste estagio\fibonacciEstagio\fibonacciEstagio\bin\Debug\fibonacciEstagio.exe.config
+C:\Users\foxdr\OneDrive\Desktop\teste estagio\fibonacciEstagio\fibonacciEstagio\bin\Debug\fibonacciEstagio.exe
+C:\Users\foxdr\OneDrive\Desktop\teste estagio\fibonacciEstagio\fibonacciEstagio\bin\Debug\fibonacciEstagio.pdb
+C:\Users\foxdr\OneDrive\Desktop\teste estagio\fibonacciEstagio\fibonacciEstagio\obj\Debug\fibonacciEstagio.csproj.AssemblyReference.cache
+C:\Users\foxdr\OneDrive\Desktop\teste estagio\fibonacciEstagio\fibonacciEstagio\obj\Debug\fibonacciEstagio.csproj.CoreCompileInputs.cache
+C:\Users\foxdr\OneDrive\Desktop\teste estagio\fibonacciEstagio\fibonacciEstagio\obj\Debug\fibonacciEstagio.exe
+C:\Users\foxdr\OneDrive\Desktop\teste estagio\fibonacciEstagio\fibonacciEstagio\obj\Debug\fibonacciEstagio.pdb
